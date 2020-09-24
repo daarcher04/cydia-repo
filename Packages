@@ -1,0 +1,56 @@
+Package: com.daarcher04.transparentdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Damien Archer
+Depends: firmware (>12.0)
+Filename: /TransparentDock.deb
+Size: 3528
+MD5sum: 5845f4ef37800cb71840446e77a5ad8c
+SHA1: 4d8c2301f5cfe3c6e586f43ef608188a6535a15a
+SHA256: 78ba7d3e365fba6a74da3ea511ebc6c2c230fe462dd25eeaf44a98b6c7e4d4a0
+Section: Tweaks
+Description: Makes your dock transparent.
+Author: daarcher04
+Name: TransparentDock
+
+Package: com.yourcompany.powerdown
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Damien Archer
+Filename: /PowerDown.deb
+Size: 4056
+MD5sum: 001fcafc8e3c64bdf7319e9f392aa63b
+SHA1: 7bffe1efcfca18d8b53c7e7a8b97dce352e209ad
+SHA256: 72106a842f8234736b51dd295a2249e6a4f1f35b30eb1361a12501c24cec93f1
+Section: Tweaks
+Description: Removes all shutdown functionality and replaces it with a nice, lighthearted message about how you can't shut down your device anymore.
+Author: daarcher04
+Name: PowerDown
+
+Package: com.daarcher04.appswitchernotif
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Damien Archer
+Filename: /AppSwitcherNotif.deb
+Size: 4148
+MD5sum: f45301623bf3b8b82fbaac9478d3a391
+SHA1: 2f2b4100ae806ed0ec69ae1042203233c634a26d
+SHA256: 5c8825ab9caa3b603c2535eda3a42ebb54becdc9c7d938f51be06f11652ee689
+Section: Tweaks
+Description: Notifies you when you remove an app from the app switcher bar. You gotta start somewhere.
+Author: daarcher04
+Name: AppSwitcherNotif
+
+Package: com.daarcher04.idevicewelcome
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Damien Archer
+Filename: /iDeviceWelcome.deb
+Size: 4040
+MD5sum: bd7d2e424885439507b6ab5990ff84d7
+SHA1: 0fac7814cbb1d93284c56164a0cd5f67c17bc6f4
+SHA256: 523a0962a71242b7f32e8f4387c5ed4e10007c2b4ee63d24e90f3a0d5710b45a
+Section: Tweaks
+Description: Welcomes you to your iDevice when you turn it on
+Author: daarcher04
+Name: iDevice Welcome
