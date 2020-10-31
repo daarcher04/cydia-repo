@@ -2,7 +2,6 @@ Package: com.daarcher04.transparentdock
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Damien Archer
-Depends: firmware (>12.0)
 Filename: /TransparentDock.deb
 Size: 3528
 MD5sum: 5845f4ef37800cb71840446e77a5ad8c
